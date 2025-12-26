@@ -1,5 +1,12 @@
 # Mars Tycoon: Sol Survival
 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B)](https://streamlit.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75)](https://plotly.com/)
+[![yFinance](https://img.shields.io/badge/Yahoo_Finance-6001D2)](https://pypi.org/project/yfinance/)
+[![Graphviz](https://img.shields.io/badge/Graphviz-2F3539)](https://graphviz.org/)
+
 Mars Tycoon: Sol Survival is a strategy resource management game where you play as the Mission Commander of the first permanent Martian settlement. Your goal is to balance critical life-support systems, manage a fragile economy, and research the technology needed to terraform Mars—all while surviving the harsh realities of the Red Planet.
 
 ## Gameplay Features
